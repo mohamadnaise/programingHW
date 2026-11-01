@@ -1,0 +1,28 @@
+C:\Users\c_c_laptop\Desktop\وظيفة c#\RandomTextQuiz\bin\Debug\net10.0\RandomTextQuiz.exe
+C:\Users\c_c_laptop\Desktop\وظيفة c#\RandomTextQuiz\bin\Debug\net10.0\RandomTextQuiz.deps.json
+C:\Users\c_c_laptop\Desktop\وظيفة c#\RandomTextQuiz\bin\Debug\net10.0\RandomTextQuiz.runtimeconfig.json
+C:\Users\c_c_laptop\Desktop\وظيفة c#\RandomTextQuiz\bin\Debug\net10.0\RandomTextQuiz.dll
+C:\Users\c_c_laptop\Desktop\وظيفة c#\RandomTextQuiz\bin\Debug\net10.0\RandomTextQuiz.pdb
+C:\Users\c_c_laptop\Desktop\وظيفة c#\RandomTextQuiz\obj\Debug\net10.0\RandomTextQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c_c_laptop\Desktop\وظيفة c#\RandomTextQuiz\obj\Debug\net10.0\RandomTextQuiz.AssemblyInfoInputs.cache
+C:\Users\c_c_laptop\Desktop\وظيفة c#\RandomTextQuiz\obj\Debug\net10.0\RandomTextQuiz.AssemblyInfo.cs
+C:\Users\c_c_laptop\Desktop\وظيفة c#\RandomTextQuiz\obj\Debug\net10.0\RandomTextQuiz.csproj.CoreCompileInputs.cache
+C:\Users\c_c_laptop\Desktop\وظيفة c#\RandomTextQuiz\obj\Debug\net10.0\RandomTextQuiz.dll
+C:\Users\c_c_laptop\Desktop\وظيفة c#\RandomTextQuiz\obj\Debug\net10.0\refint\RandomTextQuiz.dll
+C:\Users\c_c_laptop\Desktop\وظيفة c#\RandomTextQuiz\obj\Debug\net10.0\RandomTextQuiz.pdb
+C:\Users\c_c_laptop\Desktop\وظيفة c#\RandomTextQuiz\obj\Debug\net10.0\RandomTextQuiz.genruntimeconfig.cache
+C:\Users\c_c_laptop\Desktop\وظيفة c#\RandomTextQuiz\obj\Debug\net10.0\ref\RandomTextQuiz.dll
+C:\Users\c_c_laptop\Desktop\programing1-HW\RandomTextQuiz\bin\Debug\net10.0\RandomTextQuiz.exe
+C:\Users\c_c_laptop\Desktop\programing1-HW\RandomTextQuiz\bin\Debug\net10.0\RandomTextQuiz.deps.json
+C:\Users\c_c_laptop\Desktop\programing1-HW\RandomTextQuiz\bin\Debug\net10.0\RandomTextQuiz.runtimeconfig.json
+C:\Users\c_c_laptop\Desktop\programing1-HW\RandomTextQuiz\bin\Debug\net10.0\RandomTextQuiz.dll
+C:\Users\c_c_laptop\Desktop\programing1-HW\RandomTextQuiz\bin\Debug\net10.0\RandomTextQuiz.pdb
+C:\Users\c_c_laptop\Desktop\programing1-HW\RandomTextQuiz\obj\Debug\net10.0\RandomTextQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c_c_laptop\Desktop\programing1-HW\RandomTextQuiz\obj\Debug\net10.0\RandomTextQuiz.AssemblyInfoInputs.cache
+C:\Users\c_c_laptop\Desktop\programing1-HW\RandomTextQuiz\obj\Debug\net10.0\RandomTextQuiz.AssemblyInfo.cs
+C:\Users\c_c_laptop\Desktop\programing1-HW\RandomTextQuiz\obj\Debug\net10.0\RandomTextQuiz.csproj.CoreCompileInputs.cache
+C:\Users\c_c_laptop\Desktop\programing1-HW\RandomTextQuiz\obj\Debug\net10.0\RandomTextQuiz.dll
+C:\Users\c_c_laptop\Desktop\programing1-HW\RandomTextQuiz\obj\Debug\net10.0\refint\RandomTextQuiz.dll
+C:\Users\c_c_laptop\Desktop\programing1-HW\RandomTextQuiz\obj\Debug\net10.0\RandomTextQuiz.pdb
+C:\Users\c_c_laptop\Desktop\programing1-HW\RandomTextQuiz\obj\Debug\net10.0\RandomTextQuiz.genruntimeconfig.cache
+C:\Users\c_c_laptop\Desktop\programing1-HW\RandomTextQuiz\obj\Debug\net10.0\ref\RandomTextQuiz.dll
